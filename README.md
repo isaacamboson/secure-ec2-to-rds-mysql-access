@@ -1,4 +1,4 @@
-# Alloy AWS Take-Home — Terraform Infrastructure
+# Secure AWS EC2 to RDS — Terraform Infrastructure
 
 This repository defines an AWS infrastructure using Terraform. It is organized as a collection of top-level Terraform files (for example `main.tf`, `vpc.tf`, `rds.tf`, `ec2.tf`, `iam.tf`, `kms.tf`, `security.tf`, `vpc_endpoint.tf`, `vpc_flow_log.tf`, `backend.tf`, etc.) which together provision a secure, production-ready VPC-based environment with compute and database resources.
 
